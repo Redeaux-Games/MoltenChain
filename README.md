@@ -7,7 +7,7 @@ MoltenChain has been completely written in TypeScript and features smart contrac
 We have included a security feature to sanitize the Lua code deployed to the MoltenChain network.
 
 
-## Example Smart Contract
+## Example Smart Contract NFT Staking 
 
 ```
 -- define the contract variables
