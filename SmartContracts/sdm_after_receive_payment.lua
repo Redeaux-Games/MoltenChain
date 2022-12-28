@@ -1,3 +1,4 @@
+-- Self destruct message after receiving payment
 -- import the necessary libraries
 local moltenchain = require('moltenchain')
 
