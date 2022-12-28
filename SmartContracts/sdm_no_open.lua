@@ -1,3 +1,4 @@
+-- Self destruct message if not opened after specified time
 -- import the necessary libraries
 local moltenchain = require('moltenchain')
 
