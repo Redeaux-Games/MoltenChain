@@ -1,3 +1,4 @@
+-- create a sub-chain on MoltenChain for a token
 -- constants
 local TOKEN_ID_LENGTH = 32  -- length of the token id in bytes
 local BLOCK_INTERVAL = 300  -- block interval in seconds
